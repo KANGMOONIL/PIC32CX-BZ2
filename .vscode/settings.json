@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "plib_gpio.h": "c",
+        "interrupts.h": "c",
+        "gpio.h": "c",
+        "freertos.h": "c",
+        "cumstom_gpio_controller.c": "cpp",
+        "definitions.h": "c",
+        "plib_sercom0_usart.h": "c",
+        "device.h": "c",
+        "custom_package.h": "c",
+        "sys_console.h": "c",
+        "app.h": "c",
+        "app_light.h": "c",
+        "plib_eic.h": "c",
+        "plib_cmcc.h": "c"
+    }
+}
